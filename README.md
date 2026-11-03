@@ -1,3 +1,15 @@
+# Project Moved
+
+**This fork is archived and no longer maintained.**
+
+Active development has moved to **[IPv4 Counter — Optimized](https://github.com/Kukushkasus/ipv4-counter-optimized)**.
+
+The new repository contains an independently maintained implementation with improved performance, an adaptive bitmap, and additional tests.
+
+**Original project:** [alexproskurov/ip-addr-counter](https://github.com/alexproskurov/ip-addr-counter)
+
+---
+
 # IP Address Counter
 
 A Go project for counting **unique IPv4 addresses** in very large text files.
